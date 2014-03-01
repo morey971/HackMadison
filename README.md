@@ -1,2 +1,6 @@
 HackMadison
 ===========
+
+Authors:
+
+Gustave Granroth.
